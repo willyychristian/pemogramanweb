@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #000000;
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: #2ab822;
+}
+
+.btn {
+    padding: 6px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.btn-edit {
+    background-color: #1118dd;
+    color: white;
+    margin-right: 5px;
+}
+
+.btn-delete {
+    background-color: #f01009;
+    color: white;
+}
